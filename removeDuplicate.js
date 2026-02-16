@@ -10,8 +10,6 @@ function removeNames(duplicateNames) {
     return uniqueNames;
 
 }
-
-
 const duplicateNames = ["Tasin", "Mahin", "Tasin", "Siam", "Joy", "Emon"];
 
 const duplicateNumbers = [21, 22, 22, 14, 21, 43, 45, 14];
